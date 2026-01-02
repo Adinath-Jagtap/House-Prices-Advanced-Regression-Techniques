@@ -249,12 +249,6 @@ The Ames Housing dataset was compiled by Dean De Cock for data science education
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 🙏 Acknowledgments
 
 - **Kaggle** for hosting the competition and providing the platform
