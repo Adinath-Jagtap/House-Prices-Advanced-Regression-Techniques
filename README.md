@@ -93,13 +93,7 @@ House-Prices-Advanced-Regression-Techniques/
 │   └── Best scoring predictions (Public Score: 0.12029)
 │
 ├── README.md
-│   └── Project documentation
-│
-└── data/
-    ├── train.csv (provided by Kaggle)
-    ├── test.csv (provided by Kaggle)
-    ├── sample_submission.csv (provided by Kaggle)
-    └── data_description.txt (provided by Kaggle)
+    └── Project documentation
 ```
 
 ---
